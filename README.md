@@ -33,8 +33,8 @@ run flutter
 ## 2、配置环境变量()
 > 转到 “控制面板》用户帐户》用户帐户》更改我的环境变量”，
 > 在“用户变量”下检查是否有名为“Path”的条目，
-#### 如果该条目存在, 追加 flutter\bin的全路径，使用 ; 作为分隔符，
-#### 如果条目不存在, 创建一个新用户变量 Path ，然后将 flutter\bin的全路径作为它的值。
+    如果该条目存在, 追加 flutter\bin的全路径，使用 ; 作为分隔符。  
+    如果条目不存在, 创建一个新用户变量 Path ，然后将 flutter\bin的全路径作为它的值。  
 > 在“用户变量”下检查是否有名为”PUB_HOSTED_URL”和”FLUTTER_STORAGE_BASE_URL”的条目，如果没有，也添加它们。
 ## 3、安装flutter所需要的依赖：
 > 在Flutter安装目录的flutter文件下找到flutter_console.bat，双击运行并启动flutter命令行，执行flutter doctor。
