@@ -51,6 +51,10 @@ run flutter
 2. 打开终端，执行flutter create构建flutter项目
 
 
+### 总结：
+完成 以上步骤，flutter环境就搭建好了 ，下一篇我们讲解fltter项目的结构
+
+
 
 
 
